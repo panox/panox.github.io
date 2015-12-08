@@ -4,8 +4,8 @@ subtitle: secret-plateau-7340.herokuapp.com
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: slay.png
+thumbnail: slay.png
 alt: image-alt
 tech: HTML, CSS, JavaScript, jQuery, Heroku
 description: A game where a hero has to defeat the monster. The user has two choices attacking or healing. It was a really good opportunity to implement sprite animations with jQuery. 

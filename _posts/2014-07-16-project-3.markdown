@@ -7,6 +7,6 @@ date: 2014-07-16
 img: cyclevision.png
 thumbnail: cyclevision.png
 alt: cyclevision-website
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Cycle hub began as a project for WDI 16, it is a place for cyclists to share their experiences off and on their bikes with a community that understands their passion.
 
 ---

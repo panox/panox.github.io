@@ -19,7 +19,7 @@ social:
   - title: github
     url: http://github.com/panox
   - title: envelope
-    url: panospalos123@gmail.com
+    url: mailto:panospalos123@gmail.com
 
 # Build settings
 markdown: kramdown

@@ -1,0 +1,12 @@
+---
+title: General Facessembly
+subtitle: https://generalfacessembly.herokuapp.com
+layout: default
+modal-id: 3
+date: 2014-07-19
+img: Facessembly.png
+thumbnail: Facessembly.png
+alt: facessembly-website
+description: This project was created in a group in 24 hours. It was a simple idea of making a  placeholder application with the faces of the WDI16 cohort. Additionally, the user can select from five different effects to apply to his placeholder.
+
+---

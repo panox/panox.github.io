@@ -746,7 +746,7 @@ ul.social-buttons li a {
     width: 80px;
     height: 80px;
     border-radius: 100%;
-    font-size: 20px;
+    font-size: 40px;
     line-height: 40px;
     outline: 0;
     color: #fff;
@@ -755,6 +755,10 @@ ul.social-buttons li a {
     -moz-transition: all .3s;
     transition: all .3s;
 }
+ul.social-buttons li a i{
+    margin-top: 20%;
+}
+
 
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,

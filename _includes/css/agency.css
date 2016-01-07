@@ -348,6 +348,7 @@ section h3.section-subheading {
 
 #services ul {
     list-style-type: none;
+    font-size: 16px;
 }
 
 #portfolio .portfolio-item {

@@ -3,7 +3,7 @@ title: General Facessembly
 subtitle: https://generalfacessembly.herokuapp.com
 layout: default
 modal-id: 3
-date: 2014-07-19
+date: 2015-12-8
 img: Facessembly.png
 thumbnail: Facessembly.png
 alt: facessembly-website

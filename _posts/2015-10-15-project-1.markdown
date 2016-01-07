@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2015-10-15
 img: slay.png
-thumbnail: slay.png
+thumbnail: slay-thum.png
 alt: image-alt
 tech: HTML, CSS, JavaScript, jQuery, Heroku
 description: A game where a hero has to defeat the monster. The user has two choices attacking or healing. It was a really good opportunity to implement sprite animations with jQuery.

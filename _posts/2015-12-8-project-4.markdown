@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2015-12-8
 img: Facessembly.png
-thumbnail: Facessembly.png
+thumbnail: Facessembly-thum.png
 alt: facessembly-website
 description: This project was created in a group in 24 hours. It was a simple idea of making a  placeholder application with the faces of the WDI16 cohort. Additionally, the user can select from five different effects to apply to his placeholder.
 

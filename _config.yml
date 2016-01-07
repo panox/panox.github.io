@@ -18,6 +18,8 @@ social:
     url: https://www.linkedin.com/in/panox
   - title: github
     url: http://github.com/panox
+  - title: envelope
+    url: panospalos123@gmail.com
 
 # Build settings
 markdown: kramdown

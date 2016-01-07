@@ -3,7 +3,7 @@ title: Slay the Monster
 subtitle: secret-plateau-7340.herokuapp.com
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2015-10-15
 img: slay.png
 thumbnail: slay.png
 alt: image-alt

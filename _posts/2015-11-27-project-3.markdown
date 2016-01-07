@@ -3,7 +3,7 @@ title: Cyclevision
 subtitle: panox.github.io/cyclevision/
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2015-11-27
 img: cyclevision.png
 thumbnail: cyclevision.png
 alt: cyclevision-website

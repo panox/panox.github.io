@@ -1,6 +1,6 @@
 ---
 title: AnimeHub
-subtitle: panox.github.io/AnimeHub/
+subtitle: http://panox.github.io/AnimeHub/#/
 layout: default
 modal-id: 5
 date: 2015-12-18

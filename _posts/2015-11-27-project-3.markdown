@@ -1,6 +1,6 @@
 ---
 title: Cyclevision
-subtitle: panox.github.io/cyclevision/
+subtitle: http://panox.github.io/cyclevision/
 layout: default
 modal-id: 3
 date: 2015-11-27

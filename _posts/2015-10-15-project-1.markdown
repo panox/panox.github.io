@@ -1,6 +1,6 @@
 ---
 title: Slay the Monster
-subtitle: secret-plateau-7340.herokuapp.com
+subtitle: https://secret-plateau-7340.herokuapp.com
 layout: default
 modal-id: 1
 date: 2015-10-15

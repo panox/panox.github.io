@@ -1,6 +1,6 @@
 ---
 title: Pmdb
-subtitle: afternoon-bastion-3860.herokuapp.com
+subtitle: https://afternoon-bastion-3860.herokuapp.com
 layout: default
 modal-id: 2
 date: 2015-11-09
